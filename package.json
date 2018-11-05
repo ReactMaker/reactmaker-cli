@@ -1,5 +1,5 @@
 {
-  "name": "reactmaker-cli",
+  "name": "@reactmaker/reactmaker-cli",
   "bin": {
     "reactmaker": "./index.js"
   },
@@ -17,5 +17,14 @@
     "path": "^0.12.7",
     "request": "^2.88.0",
     "unzip": "^0.1.11"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReactMaker/reactmaker-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReactMaker/reactmaker-cli/issues"
+  },
+  "homepage": "https://github.com/ReactMaker/reactmaker-cli#readme"
 }

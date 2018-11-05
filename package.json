@@ -1,0 +1,21 @@
+{
+  "name": "reactmaker-cli",
+  "bin": {
+    "reactmaker": "./index.js"
+  },
+  "version": "1.0.0",
+  "description": "reactmaker cli for initialize reactjs develop environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ReactMaker",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "mkdir": "0.0.2",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "unzip": "^0.1.11"
+  }
+}

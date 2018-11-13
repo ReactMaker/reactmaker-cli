@@ -3,7 +3,7 @@
   "bin": {
     "reactmaker": "./index.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reactmaker cli for initialize reactjs develop environment",
   "main": "index.js",
   "scripts": {
